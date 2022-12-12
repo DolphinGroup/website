@@ -15,8 +15,8 @@ const commonDocsOptions = {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "Dolphin Design",
+  tagline: "滨江区最好用的 RN 框架",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/website",
   onBrokenLinks: "throw",
@@ -27,13 +27,13 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  projectName: "Dolphin Design", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
+    defaultLocale: "zh-Hans",
     locales: ["en"],
   },
   scripts: [
@@ -79,7 +79,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Dolphin Design",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
