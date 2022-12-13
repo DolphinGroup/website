@@ -42,7 +42,7 @@ const processNode = (node, parent) => {
           },
         })
       );
-      const dependencies = params.dependencies || "";
+      const dependencies = params.dependencies || "antd@5.0.0";
       const platform = params.platform || "web";
       const supportedPlatforms = params.supportedPlatforms || "ios,android,web";
       const theme = params.theme || "light";

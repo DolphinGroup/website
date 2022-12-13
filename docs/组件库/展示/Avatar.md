@@ -12,7 +12,7 @@ group: 展示
 
 ### 默认
 
-```SnackPlayer dependencies=antd%405.0.0
+```SnackPlayer
 import { Avatar } from 'antd';
 import React from 'react';
 
