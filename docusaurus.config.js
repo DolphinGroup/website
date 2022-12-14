@@ -87,7 +87,7 @@ const config = {
         title: "Dolphin Design",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/dolphin-logo.svg",
         },
         items: [
           {
